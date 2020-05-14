@@ -1,2 +1,2 @@
-# menuScroll_css
-menu com scroll através do css
+# Menu com Scroll
+Para fazer a trasição foi usado apenas html e CSS
